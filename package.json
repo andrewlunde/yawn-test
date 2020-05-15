@@ -1,0 +1,19 @@
+{
+  "name": "yawn-test",
+  "version": "0.0.0",
+  "description": "Test of YAWN-YAML",
+  "homepage": "https://github.com/andrewlunde/yawn-test",
+  "author": {
+    "name": "Andrew Lunde",
+    "email": "andrew.lunde@sap.com",
+    "url": "https://github.com/andrewlunde"
+  },
+  "dependencies": {
+    "yawn-yaml": "file:../yawn-yaml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewlunde/yawn-test"
+  },
+  "license": "MIT"
+}
